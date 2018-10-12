@@ -1,0 +1,1 @@
+This folder contains several project implemented in Python.
